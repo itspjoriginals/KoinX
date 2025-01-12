@@ -5,7 +5,7 @@ const Footer = () => {
     <footer className="bg-gray-900 text-white py-4">
       <div className="container mx-auto text-center">
         <p className="text-sm">
-          © {new Date().getFullYear()} Crypto Tracker. All Rights Reserved.
+          © {new Date().getFullYear()} KoinX. All Rights Reserved.
         </p>
         <p className="text-sm">
           Powered by{" "}
